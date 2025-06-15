@@ -16,4 +16,4 @@
 - Data passing through services using requests such as the requests provided by REST and RPC APIs (e.g., POST/GET requests)
 	- REST (representational state transfer): designed for requests over networks
 	- RPC (remote procedure call): requests between services owned by the same organization
-- Data passing through a real-time transport like Apache Kafka and Amazon Kinesis”
+- Data passing through a real-time transport like Apache Kafka and Amazon Kinesis

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Designing ML Systems/Chapter 2 Intro ML system design.md",
+                "file": "Software Engineering for Data Scientists/Chapter 8 Design and refactoring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 2 Intro ML system design"
+              "title": "Chapter 8 Design and refactoring"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 401.5
   },
   "right": {
     "id": "d751de8d886e054c",
@@ -169,9 +168,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa7507c2ef2a0b65",
+  "active": "1bd3395fd670b89d",
   "lastOpenFiles": [
     "Designing ML Systems/Chapter 2 Intro ML system design.md",
+    "Statistics/Data",
+    "Designing ML Systems/Chapter 2 Introduction to Machine Learning Systems Design.md",
+    "Designing ML Systems/Chapter 1 Overview of Machine Learning Systems.md",
     "Chapter 2.md",
     "Designing ML Systems/Chapter 2.md",
     "Designing ML Systems"

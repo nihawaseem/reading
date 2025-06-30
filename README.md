@@ -1,6 +1,6 @@
 ### About
 
-Organizing reading notes. Consolidating material from different sources. 
+Organising reading notes. Consolidating material from different sources. 
 
 Currently the structure is:
   - Parent folder [source] e.g. textbook

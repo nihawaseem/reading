@@ -11,13 +11,32 @@
             "id": "0f55ed03c002e802",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Software Engineering for Data Scientists/Chapter 5 Errors, Logging, and Debugging.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Chapter 5 Errors, Logging, and Debugging"
+            }
+          },
+          {
+            "id": "1a4b0bc1e32f3c34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MLFlow/pyfunc.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pyfunc"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 661.5,
+    "collapsed": true
   },
   "right": {
     "id": "d751de8d886e054c",
@@ -164,8 +184,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f55ed03c002e802",
+  "active": "1a4b0bc1e32f3c34",
   "lastOpenFiles": [
+    "artifacts.md",
+    "MLFlow/pyfunc.md",
+    "Pasted image 20250630134532.png",
+    "Software Engineering for Data Scientists/Chapter 5 Errors, Logging, and Debugging.md",
+    "MLFlow",
+    "Software Engineering for Data Scientists/Chapter 4 Object-oriented vs functional programming.md",
+    "Software Engineering for Data Scientists/Chapter 3 Using data structures effectively.md",
+    "Software Engineering for Data Scientists/Chapter 2 Analyzing code performance.md",
+    "Software Engineering for Data Scientists/Chapter 1 What is Good Code.md",
+    "Software Engineering for Data Scientists/Chapter 7 Testing your code.md",
+    "README.md",
+    "ML/LightGBM.md",
+    "Software Engineering for Data Scientists/Chapter 6 Code formatting, linting, and type checking.md",
+    "Software Engineering for Data Scientists/Chapter 8 Design and refactoring.md",
     "Statistics/Data/Relationship between distributions.png",
     "Statistics/Regression.md",
     "Statistics/Distributions.md",
@@ -182,28 +216,16 @@
     "Software Engineering for Data Scientists/Data/Pasted image 20250612192124.png",
     "Software Engineering for Data Scientists/Data/Pasted image 20250612192101.png",
     "Software Engineering for Data Scientists/Data",
-    "Software Engineering for Data Scientists/Chapter 8 Design and refactoring.md",
-    "Software Engineering for Data Scientists/Chapter 7 Testing your code.md",
-    "Software Engineering for Data Scientists/Chapter 6 Code formatting, linting, and type checking.md",
-    "Software Engineering for Data Scientists/Chapter 5 Errors, Logging, and Debugging.md",
-    "Software Engineering for Data Scientists/Chapter 4 Object-oriented vs functional programming.md",
-    "Software Engineering for Data Scientists/Chapter 3 Using data structures effectively.md",
-    "Software Engineering for Data Scientists/Chapter 2 Analyzing code performance.md",
-    "Software Engineering for Data Scientists/Chapter 1 What is Good Code.md",
     "Software Engineering for Data Scientists",
-    "README.md",
-    "Designing ML Systems/Data/Pasted image 20250526223943.png",
     "Designing ML Systems/Data",
     "Designing ML Systems/Chapter 1 Overview of Machine Learning Systems.md",
     "ML/Feature selection/Permutation feature importance.md",
-    "LightGBM.md",
     "Decision tree",
     "ML/Decision trees",
     "ML/Feature selection",
     "ML",
     "Designing ML Systems/Chapter 2 Intro ML system design.md",
     "Chapter 2.md",
-    "Designing ML Systems/Chapter 2.md",
-    "Designing ML Systems"
+    "Designing ML Systems/Chapter 2.md"
   ]
 }

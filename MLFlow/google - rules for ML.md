@@ -121,6 +121,25 @@
 
 28. ==Identical short-term behaviour does not imply long-term behaviour 
 
+##### Training-serving skew
+- A discrepancy between how you handle data in the training and serving pipelines.
+- A change in the data between when you train and when you serve.
+- A feedback loop between your model and your algorithm.
+
+29. Train like you serve: save the set of features used at serving time, and then pipe those features to a log to use them at training time 
+		Do this to verify consistency between serving and training
+
+30. Don't arbitrarily drop data
+
+31. If you join data from a table at training and serving time, the data in the table may change
+	- Log features at serving time
+
+32. Re-use code between training pipeline and serving pipeline whenever possible 
+
+33. If you produce a model based on data from $t_1...t_3$ test the model on data from $t_4$ onwards 
+
+34. Make small short-term sacrifices in performance for very clean data
+
 #### Phase 3: slowed growth, optimisation refinement, and complex models 
 
 #### Phase 4: reaching a plateau 

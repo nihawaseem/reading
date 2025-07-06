@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MLFlow/pyfunc.md",
+                "file": "Forecasting/Global forecasting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pyfunc"
+              "title": "Global forecasting"
             }
           },
           {
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 661.5
+    "width": 661.5,
+    "collapsed": true
   },
   "right": {
     "id": "d751de8d886e054c",
@@ -182,12 +183,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f55ed03c002e802",
+  "floating": {
+    "id": "20b3f4f6869f1611",
+    "type": "floating",
+    "children": [
+      {
+        "id": "9739ecd7d5541604",
+        "type": "window",
+        "children": [
+          {
+            "id": "5c1ef8fbe1b3f7e1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f92a95cd92ea3746",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Forecasting/Principles and Algorithms for Forecasting Groups of Time Series.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Principles and Algorithms for Forecasting Groups of Time Series"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 353,
+        "y": 25,
+        "width": 1854,
+        "height": 1284,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "f92a95cd92ea3746",
   "lastOpenFiles": [
-    "MLFlow/google - rules for ML.md",
+    "Forecasting/Global forecasting.md",
+    "Forecasting/Principles and Algorithms for Forecasting Groups of Time Series.pdf",
+    "Designing ML Systems/Chapter 2 Intro ML system design.md",
+    "Forecasting",
+    "Designing ML Systems/Chapter 1 Overview of Machine Learning Systems.md",
     "Software Engineering for Data Scientists/Chapter 1 What is Good Code.md",
-    "Software Engineering for Data Scientists/Chapter 5 Errors, Logging, and Debugging.md",
+    "MLFlow/google - rules for ML.md",
     "MLFlow/pyfunc.md",
+    "Software Engineering for Data Scientists/Chapter 5 Errors, Logging, and Debugging.md",
     "artifacts.md",
     "Pasted image 20250630134532.png",
     "MLFlow",
@@ -217,13 +260,9 @@
     "Software Engineering for Data Scientists/Data",
     "Software Engineering for Data Scientists",
     "Designing ML Systems/Data",
-    "Designing ML Systems/Chapter 1 Overview of Machine Learning Systems.md",
     "ML/Feature selection/Permutation feature importance.md",
     "Decision tree",
     "ML/Decision trees",
-    "ML/Feature selection",
-    "ML",
-    "Designing ML Systems/Chapter 2 Intro ML system design.md",
     "Chapter 2.md",
     "Designing ML Systems/Chapter 2.md"
   ]

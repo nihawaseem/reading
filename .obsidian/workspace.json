@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering for Data Scientists/Chapter 5 Errors, Logging, and Debugging.md",
+                "file": "MLFlow/pyfunc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 5 Errors, Logging, and Debugging"
+              "title": "pyfunc"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MLFlow/pyfunc.md",
+                "file": "MLFlow/google - rules for ML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pyfunc"
+              "title": "google - rules for ML"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 661.5,
-    "collapsed": true
+    "width": 661.5
   },
   "right": {
     "id": "d751de8d886e054c",
@@ -184,17 +182,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a4b0bc1e32f3c34",
+  "active": "0f55ed03c002e802",
   "lastOpenFiles": [
-    "artifacts.md",
-    "MLFlow/pyfunc.md",
-    "Pasted image 20250630134532.png",
+    "MLFlow/google - rules for ML.md",
+    "Software Engineering for Data Scientists/Chapter 1 What is Good Code.md",
     "Software Engineering for Data Scientists/Chapter 5 Errors, Logging, and Debugging.md",
+    "MLFlow/pyfunc.md",
+    "artifacts.md",
+    "Pasted image 20250630134532.png",
     "MLFlow",
     "Software Engineering for Data Scientists/Chapter 4 Object-oriented vs functional programming.md",
     "Software Engineering for Data Scientists/Chapter 3 Using data structures effectively.md",
     "Software Engineering for Data Scientists/Chapter 2 Analyzing code performance.md",
-    "Software Engineering for Data Scientists/Chapter 1 What is Good Code.md",
     "Software Engineering for Data Scientists/Chapter 7 Testing your code.md",
     "README.md",
     "ML/LightGBM.md",

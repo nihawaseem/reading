@@ -8,7 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0f55ed03c002e802",
+            "id": "04c9122fa050e049",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forecasting/fpp/Chapter 9 ARIMA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 9 ARIMA"
+            }
+          },
+          {
+            "id": "2619c49cac18f5cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,22 +34,9 @@
               "icon": "lucide-file",
               "title": "Global forecasting"
             }
-          },
-          {
-            "id": "1a4b0bc1e32f3c34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MLFlow/google - rules for ML.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "google - rules for ML"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,71 +184,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "20b3f4f6869f1611",
-    "type": "floating",
-    "children": [
-      {
-        "id": "9739ecd7d5541604",
-        "type": "window",
-        "children": [
-          {
-            "id": "5c1ef8fbe1b3f7e1",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f92a95cd92ea3746",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Forecasting/Principles and Algorithms for Forecasting Groups of Time Series.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Principles and Algorithms for Forecasting Groups of Time Series"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 353,
-        "y": 25,
-        "width": 1854,
-        "height": 1284,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "f92a95cd92ea3746",
+  "active": "2619c49cac18f5cd",
   "lastOpenFiles": [
-    "Forecasting/Global forecasting.md",
     "Forecasting/Principles and Algorithms for Forecasting Groups of Time Series.pdf",
+    "Forecasting/Global forecasting.md",
+    "Pasted image 20250707094121.png",
+    "Forecasting/fpp/Chapter 9 ARIMA.md",
+    "Forecasting/Forecasting errors.md",
+    "Forecasting/fpp/Chapter 4 Judgemental forecasts.md",
+    "Forecasting/fpp/Chapter 6 Time series decomposition.md",
+    "MLFlow/artifacts.md",
+    "README.md",
+    "Statistics/Data/Relationship between distributions.png",
+    "Statistics/ANOVA.md",
+    "Statistics/Diagnostics.md",
+    "Statistics/Distributions.md",
+    "Statistics/Regression.md",
+    "MLFlow/pyfunc.md",
+    "MLFlow/Pasted image 20250630134532.png",
     "Designing ML Systems/Chapter 2 Intro ML system design.md",
+    "Forecasting/fpp",
+    "MLFlow/google - rules for ML.md",
     "Forecasting",
     "Designing ML Systems/Chapter 1 Overview of Machine Learning Systems.md",
     "Software Engineering for Data Scientists/Chapter 1 What is Good Code.md",
-    "MLFlow/google - rules for ML.md",
-    "MLFlow/pyfunc.md",
     "Software Engineering for Data Scientists/Chapter 5 Errors, Logging, and Debugging.md",
-    "artifacts.md",
-    "Pasted image 20250630134532.png",
     "MLFlow",
     "Software Engineering for Data Scientists/Chapter 4 Object-oriented vs functional programming.md",
     "Software Engineering for Data Scientists/Chapter 3 Using data structures effectively.md",
     "Software Engineering for Data Scientists/Chapter 2 Analyzing code performance.md",
     "Software Engineering for Data Scientists/Chapter 7 Testing your code.md",
-    "README.md",
     "ML/LightGBM.md",
     "Software Engineering for Data Scientists/Chapter 6 Code formatting, linting, and type checking.md",
     "Software Engineering for Data Scientists/Chapter 8 Design and refactoring.md",
-    "Statistics/Data/Relationship between distributions.png",
-    "Statistics/Regression.md",
-    "Statistics/Distributions.md",
-    "Statistics/Diagnostics.md",
     "Statistics/Data",
-    "Statistics/ANOVA.md",
     "Statistics",
     "Software Engineering for Data Scientists/Data/Pasted image 20250612225916.png",
     "Software Engineering for Data Scientists/Data/Pasted image 20250612225613.png",
@@ -256,14 +226,10 @@
     "Software Engineering for Data Scientists/Data/Pasted image 20250612193655.png",
     "Software Engineering for Data Scientists/Data/Pasted image 20250612193243.png",
     "Software Engineering for Data Scientists/Data/Pasted image 20250612192124.png",
-    "Software Engineering for Data Scientists/Data/Pasted image 20250612192101.png",
     "Software Engineering for Data Scientists/Data",
     "Software Engineering for Data Scientists",
     "Designing ML Systems/Data",
     "ML/Feature selection/Permutation feature importance.md",
-    "Decision tree",
-    "ML/Decision trees",
-    "Chapter 2.md",
-    "Designing ML Systems/Chapter 2.md"
+    "Decision tree"
   ]
 }

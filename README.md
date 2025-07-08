@@ -8,3 +8,7 @@ Currently the structure is:
   - Notes
 
 Would prefer to pivot from a source-based structure to a topic based structure as time goes on. 
+
+### ML blogs and resources
+https://www.tensorflow.org/resources/learn-ml
+https://github.com/eugeneyan/applied-ml

@@ -13,3 +13,5 @@ Would prefer to pivot from a source-based structure to a topic based structure a
 https://www.tensorflow.org/resources/learn-ml
 
 https://github.com/eugeneyan/applied-ml
+
+https://eugeneyan.com/
